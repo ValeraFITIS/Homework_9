@@ -1,0 +1,19 @@
+.services_head{
+  text-align: center;
+  color: #29323c;
+  font-family: "Open Sans",sans-serif;
+  &_title{
+    font-size: 26px;
+    font-weight: 600;
+  }
+  &_text{
+    font-size: 14px;
+    font-weight: 400;
+  }
+  &span{
+    width: 40px;
+    height: 5px;
+    border: 3px solid #29323c;
+    color: #17a2b8;
+  }
+}

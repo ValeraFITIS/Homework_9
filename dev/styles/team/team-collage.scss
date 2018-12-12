@@ -1,0 +1,40 @@
+
+.team_collage{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  img{
+    width: 100%;
+    height: auto;
+  }
+  &_img{
+    position: relative;
+  }
+  &_img_description{
+    padding-top: 50px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #000;
+    opacity: 0;
+  }
+  .team_collage_img:hover .team_collage_img_description {
+    opacity: 0.8;
+    background-color: #9fcdff;
+  }
+  &_dates{
+    background-color: #6c757d;
+    height: 100px;
+    padding: 10px 0;
+    i{
+      color: #fff;
+      &:hover{
+        color: #6f42c1;
+      }
+    }
+  }
+}

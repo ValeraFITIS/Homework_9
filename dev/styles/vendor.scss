@@ -1,0 +1,29 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import "header/logo.scss";
+@import "header/navigation.scss";
+@import "header/header_title.scss";
+@import "header/row_btn.scss";
+
+@import "services/services_head";
+@import "services/services_features";
+
+@import "works/works";
+@import "works/works-collage";
+
+@import "clients/clients-head";
+@import "clients/clients-slider";
+
+@import "team/team-head";
+@import "team/team-collage";
+@import "team/team-button";
+
+@import "partners/partners_logos";
+
+@import "pricing/pricing-head";
+@import "pricing/pricing-pucks";
+
+@import "footer/map";
+@import "footer/form";
+@import "footer/footer-logo";
+@import "footer/contacts";
+@import "footer/stay-in-touch";

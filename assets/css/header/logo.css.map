@@ -1,0 +1,1 @@
+{"version":3,"sources":["header/logo.scss"],"names":[],"mappings":"AAAA,MACE,QAAA,OACA,WAAA","file":"logo.css","sourcesContent":[".logo{\r\n  display: inline;\r\n  text-align: left;\r\n}"]}

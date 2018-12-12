@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer/stay-in-touch.scss"],"names":[],"mappings":"AAAA,eACE,QAAA,YAAA,QAAA,YAAA,QAAA,KACA,cAAA,KAAA,UAAA,KAFF,iBAII,OAAA,EAAA","file":"stay-in-touch.css","sourcesContent":[".stay_in_touch{\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  a{\r\n    margin: 0 5px;\r\n  }\r\n}"]}

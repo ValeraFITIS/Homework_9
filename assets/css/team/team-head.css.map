@@ -1,0 +1,1 @@
+{"version":3,"sources":["team/team-head.scss"],"names":[],"mappings":"AAAA,cACE,MAAA,QACA,YAAA,WAAA,CAAA","file":"team-head.css","sourcesContent":[".team__header{\r\n  color: #f2f2f2;\r\n  font-family: \"Open Sans\",sans-serif;\r\n}"]}

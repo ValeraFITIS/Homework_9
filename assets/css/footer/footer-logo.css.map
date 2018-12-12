@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer/footer-logo.scss"],"names":[],"mappings":"AAAA,aACE,QAAA,YAAA,QAAA,YAAA,QAAA,KACA,cAAA,KAAA,UAAA,KAFF,iBAII,cAAA","file":"footer-logo.css","sourcesContent":[".footer_logo{\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  img{\r\n    padding-right: 20px;\r\n  }\r\n}"]}

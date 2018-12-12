@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer/contacts.scss"],"names":[],"mappings":"AAAA,iBACE,QAAA,KACA,QAAA,YAAA,QAAA,YAAA,QAAA,KACA,iBAAA,QAAA,cAAA,QAAA,gBAAA,cACA,iBAAA","file":"contacts.css","sourcesContent":[".footer_contacts{\r\n  padding: 50px;\r\n  display: flex;\r\n  justify-content: space-between;\r\n  background-color: #f5f5f5;\r\n}"]}

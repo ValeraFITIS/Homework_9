@@ -1,0 +1,30 @@
+
+.works_collage{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  li{
+    flex-grow: 1;
+  }
+  img{
+    width: 100%;
+    height: auto;
+  }
+  &_img{
+    position: relative;
+    flex-grow: 1;
+  }
+  &_img_description{
+    padding-top: 50px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #000;
+    opacity: 0;
+  }
+  .works_collage_img:hover .works_collage_img_description {
+    opacity: 0.8;
+    background-color: #9fcdff;
+  }}

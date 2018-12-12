@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer/map.scss"],"names":[],"mappings":"AAAA,KACE,SAAA,OADF,YAGI,UAAA,MACA,WAAA","file":"map.css","sourcesContent":[".map{\r\n  overflow:hidden;\r\n  iframe{\r\n    min-width: 700px ;\r\n    min-height: 500px;\r\n  }\r\n}"]}

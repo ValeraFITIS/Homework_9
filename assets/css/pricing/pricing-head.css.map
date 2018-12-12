@@ -1,0 +1,1 @@
+{"version":3,"sources":["pricing/pricing-head.scss"],"names":[],"mappings":"AAAA,qBACE,QAAA,YAAA,QAAA,YAAA,QAAA,KACA,cAAA,KAAA,UAAA,KACA,mBAAA,SAAA,sBAAA,OAAA,mBAAA,OAAA,eAAA,OACA,WAAA","file":"pricing-head.css","sourcesContent":[".princing-table_head{\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  flex-direction: column;\r\n  text-align: center;\r\n}"]}

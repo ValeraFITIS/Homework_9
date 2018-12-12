@@ -1,0 +1,52 @@
+
+.packs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  &_part{
+    width: 250px;
+    height: 500px;
+    border: 1px solid #6c757d;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    &:hover{
+      height: 520px;
+      border-top: 3px solid #6c757d;
+    }
+  }
+  &_head{
+    padding: 20px;
+    border: 1px solid #6c757d;
+    h2{
+      color: #485563;
+      font-family: Montserrat,sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+    }
+    h4{
+      color: #29323c;
+      font-family: Montserrat,sans-serif;
+      font-size: 45px;
+      font-weight: 400;
+    }
+  }
+  &_description{
+    padding: 30px;
+
+  }
+  button{
+    position: absolute;
+    left: 60px;
+    bottom: 40px;
+    width: 125px;
+    height: 40px;
+    background-color: #485563;
+    border-radius: 20px;
+    &:hover{
+      background-color: #9fcdff;
+    }
+  }
+}
